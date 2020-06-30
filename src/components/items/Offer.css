@@ -1,0 +1,11 @@
+.offer {
+  display: flex;
+  justify-content: space-around;
+}
+.list-photos {
+  max-width: 100%;
+  text-align: center;
+}
+.photo {
+  max-width: 70%;
+}

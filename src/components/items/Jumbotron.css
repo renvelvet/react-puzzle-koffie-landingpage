@@ -1,0 +1,9 @@
+.jumbotron {
+  height: 500px;
+  color: aliceblue;
+}
+.jumbotron .desc-jumbotron {
+  padding-top: 200px;
+  margin-bottom: -200px;
+  padding-left: 50px;
+}

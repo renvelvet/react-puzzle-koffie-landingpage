@@ -1,0 +1,18 @@
+/* Container list photo di bagian OUR SHOP */
+.branch {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+/* List Shop */
+.branch-photos {
+  max-width: 100%;
+  /* text-align: center; */
+}
+#shop1,
+#shop3,
+#shop4,
+#shop5,
+#shop6 {
+  max-width: 15vw;
+}
