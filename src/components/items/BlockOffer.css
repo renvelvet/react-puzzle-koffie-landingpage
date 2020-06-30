@@ -4,5 +4,5 @@
   padding: 20px 60px;
 }
 .block-offer {
-  margin: 20px auto;
+  display: block;
 }

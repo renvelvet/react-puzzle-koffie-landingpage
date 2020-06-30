@@ -1,9 +1,10 @@
 .offer {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 .list-photos {
-  max-width: 100%;
+  max-width: 30%;
   text-align: center;
 }
 .photo {
