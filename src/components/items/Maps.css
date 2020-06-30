@@ -1,3 +1,6 @@
 iframe-has-title {
   border: 0;
 }
+.map {
+  align-items: flex-end;
+}

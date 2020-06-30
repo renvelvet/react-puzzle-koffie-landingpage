@@ -1,6 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
-h2 {
-  font-family: "Yellowtail", cursive;
+@font-face {
+  font-family: "Red Letter";
+  src: url("../Tomatoes-O8L8.ttf");
+}
+#text-jumbotron {
+  display: inline;
+  background: rgba(0, 0, 0, 0.3);
+  font-family: "Red Letter";
 }
 .jumbotron {
   height: 500px;

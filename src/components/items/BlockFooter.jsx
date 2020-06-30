@@ -4,7 +4,7 @@ import ListFooter from "./ListFooter";
 import Maps from "./Maps";
 function BlockFooter() {
   return (
-    <div className="block-footer">
+    <div className="block-footer" id="findus">
       <ListFooter />
       <Maps />
     </div>

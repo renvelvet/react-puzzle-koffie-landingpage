@@ -6,24 +6,16 @@ function Nav() {
       <h3>Puzzle Koffie</h3>
       <ul>
         <li>
-          <a href="https://www.gstatic.com/bfe/apps/website/img/h/71194643-coffee-1440.jpg">
-            Menu
-          </a>
+          <a href="#offers">Offers</a>
         </li>
         <li>
-          <a href="https://www.gstatic.com/bfe/apps/website/img/h/71194643-coffee-1440.jpg">
-            Gallery
-          </a>
+          <a href="#shops">Our Shop</a>
         </li>
         <li>
-          <a href="https://www.gstatic.com/bfe/apps/website/img/h/71194643-coffee-1440.jpg">
-            Contact
-          </a>
+          <a href="#findus">Find Us</a>
         </li>
         <li>
-          <a href="https://www.gstatic.com/bfe/apps/website/img/h/71194643-coffee-1440.jpg">
-            Testimonials
-          </a>
+          <a href="https://puzzle-koffie.business.site/">Official Website</a>
         </li>
       </ul>
     </div>

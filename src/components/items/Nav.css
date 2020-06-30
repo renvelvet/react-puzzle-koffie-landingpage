@@ -1,20 +1,34 @@
+@font-face {
+  font-family: "Red Letter";
+  src: url("../Tomatoes-O8L8.ttf");
+}
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
 .navbar h3 {
+  margin: 0;
   padding: 0 20px;
   font-size: 25px;
   color: aliceblue;
+  font-family: "Noto Sans JP";
 }
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 10px 5px 0 5px;
+  padding: 20px 5px 20px 5px;
   background: rgba(0, 0, 0, 0.3);
 }
 .navbar a {
   color: aliceblue;
   text-decoration: none;
+  font-family: "Noto Sans JP", sans-serif;
+  background-color: rgba(64, 44, 37);
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+.navbar ul {
+  margin: 0;
 }
 .navbar li {
   font-size: 20px;
   display: inline;
-  padding: 0 20px 0 20px;
+  padding: 5px;
 }
