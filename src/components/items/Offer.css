@@ -4,9 +4,21 @@
   justify-content: space-around;
 }
 .list-photos {
+  margin: 20px auto;
   max-width: 30%;
   text-align: center;
 }
 .photo {
-  max-width: 70%;
+  max-width: 100%;
+}
+@media only screen and (max-width: 768px) {
+  .offer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .list-photos {
+    max-width: 70%;
+    text-align: center;
+  }
 }

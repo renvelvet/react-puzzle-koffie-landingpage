@@ -16,3 +16,18 @@
 #shop6 {
   max-width: 15vw;
 }
+@media only screen and (max-width: 768px) {
+  .branch {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-around;
+  }
+  #shop1,
+  #shop3,
+  #shop4,
+  #shop5,
+  #shop6 {
+    max-width: 50vw;
+  }
+}

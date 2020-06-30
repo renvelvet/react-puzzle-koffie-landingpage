@@ -7,7 +7,7 @@ import "./Offer.mobile.css";
 
 function Offer() {
   return (
-    <section className="offer">
+    <div className="offer">
       <div className="list-photos">
         <img className="photo" src={wifi} alt="wifi" />
         <h3>Wi-fi Gratis</h3>
@@ -20,7 +20,7 @@ function Offer() {
         <img className="photo" src={affordable} alt="Affordable" />
         <h3>Affordable Price</h3>
       </div>
-    </section>
+    </div>
   );
 }
 
