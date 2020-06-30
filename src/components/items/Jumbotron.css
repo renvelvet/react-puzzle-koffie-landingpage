@@ -16,3 +16,8 @@
   margin-bottom: -200px;
   padding-left: 50px;
 }
+@media only screen and (max-width: 768px) {
+  .jumbotron {
+    width: 100vw;
+  }
+}
