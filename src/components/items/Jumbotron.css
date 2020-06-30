@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+h2 {
+  font-family: "Yellowtail", cursive;
+}
 .jumbotron {
   height: 500px;
   color: aliceblue;
