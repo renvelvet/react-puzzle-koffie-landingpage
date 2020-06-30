@@ -13,6 +13,7 @@ function Maps() {
         aria-hidden="false"
         tabindex="0"
         title="maps"
+        dipslay="flex"
       ></iframe>
       <h4>
         Jalan Haji Amat No.11A RT.4/RW.3 Kukusan Kecamatan Beji <br />
